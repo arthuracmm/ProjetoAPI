@@ -1,5 +1,5 @@
 {
-  "name": "projetodsm4",
+  "name": "projetoapi",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "typescript": "~5.8.3",
     "@types/react": "~19.0.10"
   },
   "private": true
